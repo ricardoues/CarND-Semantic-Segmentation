@@ -19,5 +19,7 @@ Clone the repository and inside the main directory run the following command:
 ```python
 python main.py 
 ```
+You can see the program running in the following link:
 
+[https://www.youtube.com/watch?v=DQfr1MIx9ug](https://www.youtube.com/watch?v=DQfr1MIx9ug)
 
