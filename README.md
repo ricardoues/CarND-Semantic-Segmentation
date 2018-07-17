@@ -13,3 +13,11 @@ pip install tqdm
 pip install --upgrade scipy==1.0
 conda install -c anaconda pillow
 ```
+## Running the project 
+Clone the repository and inside the main directory run the following command:
+
+```python
+python main.py 
+```
+
+
